@@ -1,1 +1,127 @@
 /* You can add global styles to this file, and also import other style files */
+body {
+    font-family: "Source Sans Pro", sans-serif;
+    text-align: left;
+    line-height: 1.5;
+}
+
+html, body {
+    padding: 0;
+    margin: 0;
+}
+
+body, input, textarea, button, select {
+    line-height: 1.7;
+    color: #333;
+    -webkit-font-smoothing: antialiased;
+    -webkit-text-size-adjust: 100%;
+    letter-spacing: 0px;
+}
+
+body {
+    font-size: 20px;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: #fff;
+}
+
+.blog_list_item .blog-item .blog-item-thumbnail a {
+    display: block;
+    text-align: center;
+}
+
+a, .text-link {
+    color: #575454;
+    text-decoration: none;
+    background: transparent;
+}
+
+a {
+    color: #575454;
+    text-decoration: none !important;
+}
+
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+}
+
+.blog_list_item .blog-item .ct_list_item {
+    display: block;
+    float: left;
+    width: calc(100% - 90px);
+    -o-width: calc(100% - 90px);
+    -moz-width: calc(100% - 90px);
+    -webkit-width: calc(100% - 90px);
+    padding-left: 15px;
+}
+
+.blog_list_item .blog-item .blog-item-name {
+    margin: 0px;
+    font-family: 'Noto Serif', sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 20px;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+article, aside, details, figcaption, figure, footer, header, hgroup, main, nav, section, summary {
+    display: block;
+}
+
+.list-blogs {
+    margin-top: 5px;
+}
+
+*, :after, :before {
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+div {
+    display: block;
+}
+
+.blog_list_item {
+    border-top: 0px;
+    margin-bottom: 30px;
+}
+
+.blog_list_item .blog-item {
+    padding: 20px 0px 20px 0px;
+    margin: 0px 0px !important;
+    position: relative;
+    border-bottom: dashed 1px #ebebeb;
+}
+
+.blog-item {
+    overflow: hidden;
+}
+
+.blog_list_item .blog-item .blog-item-thumbnail {
+    display: inline-block;
+}
+
+.blog_list_item .blog-item .blog-item-thumbnail a {
+    display: block;
+    text-align: center;
+}
+
+a, .text-link {
+    color: #575454;
+    text-decoration: none;
+    background: transparent;
+}
+
+.blog_list_item .blog-item .blog-item-thumbnail a {
+    display: block;
+    text-align: center;
+}

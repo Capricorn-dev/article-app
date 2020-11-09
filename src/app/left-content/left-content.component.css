@@ -1,0 +1,191 @@
+.col-md-4, .col-lg-1, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-md-1, .col-md-10, .col-md-11, .col-md-12, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-sm-1, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-xs-1, .col-xs-10, .col-xs-11, .col-xs-12, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, .col-xs-7, .col-xs-8, .col-xs-9 {
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.title_module {
+    display: block;
+    line-height: 40px;
+    z-index: 9;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.title_module h2 {
+    font-family: "Source Sans Pro", sans-serif;
+    margin: 0px;
+    line-height: 28px;
+    font-size: 18px;
+    padding: 0px 0px 0px;
+}
+h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+    color: #323c3f;
+    letter-spacing: 0px;
+}
+h2, .h2 {
+    font-size: 2em;
+}
+h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
+    font-family: "Roboto","HelveticaNeue","Helvetica Neue",sans-serif;
+    line-height: 1.4;
+}
+.h2, h2 {
+    font-size: 30px;
+}
+.h1, .h2, .h3, h1, h2, h3 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+    font-family: inherit;
+    font-weight: 500;
+    line-height: 1.1;
+    color: inherit;
+}
+*, :after, :before {
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+*, input, :before, :after {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+h2 {
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+/* h2 */
+
+.title_module h2 {
+    font-family: 'Noto Serif', serif;
+    margin: 0px;
+    line-height: 28px;
+    font-size: 18px;
+    padding: 0px 0px 0px;
+}
+h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+    color: #323c3f;
+    letter-spacing: 0px;
+}
+
+h2 {
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+.title_module h2 a, .title_module h2 span, .title_module h2 .fa {
+    color: #333;
+    text-decoration: none;
+}
+
+*, :after, :before {
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.aside-item .aside-content.aside-cate-blog {
+    margin-bottom: 30px;
+    margin-top: 5px;
+}
+
+.aside-item .aside-content {
+    position: relative;
+    z-index: 2;
+}
+
+div {
+    display: block;
+}
+
+/* .aside-item */
+.title_module {
+    display: block;
+    line-height: 40px;
+    z-index: 9;
+}
+
+/* h2 */
+.title_module h2 {
+    font-family: 'Noto Serif', serif;
+    margin: 0px;
+    line-height: 28px;
+    font-size: 18px;
+    padding: 0px 0px 0px;
+}
+
+h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+    color: #323c3f;
+    letter-spacing: 0px;
+}
+
+h2, .h2 {
+    font-size: 2em;
+}
+
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+    font-family: inherit;
+    font-weight: 500;
+    line-height: 1.1;
+    color: inherit;
+}
+
+h2 {
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+.blog_list_item .blog-item .blog-item-name {
+    margin: 0px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+h3 {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+.blog_list_item .blog-item .time_post {
+    font-family: 'Noto Serif', serif;
+    font-size: 14px;
+    color: #acacac;
+}
+
+.blog_list_item .blog-item .time_post .fa {
+    font-family: 'FontAwesome';
+    color: #ffd35a;
+}

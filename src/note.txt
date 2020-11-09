@@ -1,0 +1,3 @@
+Config router in app.module.ts
+Specify Home-page router is default
+Create component for your needs ==> then add "<router-outlet></router-outlet>"
