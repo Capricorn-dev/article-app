@@ -28,7 +28,8 @@ import { ArticleDetailComponent } from './article-detail/article-detail.componen
     FormsModule,
     RouterModule.forRoot([
       { path: 'article-detail', component: ArticleDetailComponent },
-      { path: '', component: HomePageComponent, pathMatch: 'full' },
+      { path: 'home-page', component: HomePageComponent },
+      { path: '', component: HomePageComponent, pathMatch: 'full' }
     ])
   ],
   providers: [],
