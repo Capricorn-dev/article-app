@@ -100,7 +100,7 @@ section {
     padding-left: 15px;
 }
 /* blog-item blog-item-grid row */
-.list-blogs .row .item_i:nth-child(1) .blog-item {
+.list-blogs .row .item_i:nth-child(1) {
     border-top: dashed 1px #ebebeb;
 }
 .blog-item {

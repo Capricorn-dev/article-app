@@ -5,7 +5,7 @@ body {
     line-height: 1.5;
 }
 
-html, body {
+html, body, container, article-wraper, app-root {
     padding: 0;
     margin: 0;
 }
